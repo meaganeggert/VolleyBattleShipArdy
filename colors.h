@@ -1,4 +1,5 @@
 //Colors Library by Bill Kerney
+//Documentation https://github.com/ShakaUVM/colors/blob/master/colors.h
 
 #ifndef COLORS_H
 #define COLORS_H
