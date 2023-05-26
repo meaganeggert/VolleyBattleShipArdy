@@ -1,7 +1,8 @@
 # Data Structures Class Final Project:
 These were the instructions given to us.
 We began with a blank slate besides being given a text file of questions to use for the quiz database, our professor's colors.h library and his read.h library. All students had the option to use either colors.h or ncurses for their TUI.
-<br><br>
+
+---
 
 ### VolleyBattleShipArdy
 
