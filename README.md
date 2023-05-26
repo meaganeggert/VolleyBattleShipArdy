@@ -3,20 +3,7 @@ These were the instructions given to us.
 We began with a blank slate besides being given a text file of questions to use for the quiz database, our professor's colors.h library and his read.h library. All students had the option to use either colors.h or ncurses for their TUI.
 <br><br>
 
-=========================================================================
-__     _____  _     _     _______   ______    _  _____ _____ _     _____
-\ \   / / _ \| |   | |   | ____\ \ / / __ )  / \|_   _|_   _| |   | ____|
- \ \ / / | | | |   | |   |  _|  \ V /|  _ \ / _ \ | |   | | | |   |  _|
-  \ V /| |_| | |___| |___| |___  | | | |_) / ___ \| |   | | | |___| |___
-   \_/  \___/|_____|_____|_____| |_| |____/_/   \_\_|   |_| |_____|_____|
-
- ____  _   _ ___ ____   _    ____  ______   __
-/ ___|| | | |_ _|  _ \ / \  |  _ \|  _ \ \ / /
-\___ \| |_| || || |_) / _ \ | |_) | | | \ V /
- ___) |  _  || ||  __/ ___ \|  _ <| |_| || |
-|____/|_| |_|___|_| /_/   \_\_| \_\____/ |_|
-
-=========================================================================
+### VolleyBattleShipArdy
 
 "I'm stronger than yesterday." -BS
 
